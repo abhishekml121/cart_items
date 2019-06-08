@@ -1,0 +1,4 @@
+# cart_items
+You can preserve your favourite/cart items after load the page.
+
+This is made with AJAX, PHP, JAVASCRIPT
